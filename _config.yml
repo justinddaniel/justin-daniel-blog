@@ -1,10 +1,10 @@
 # Site settings
-title: justindaniel
+title: Decoding Life
 header-img: img/home-bg.png
 email: justinddaniel@gmail.com
 copyright_name: justinddaniel
 description: > # this means to ignore newlines until "baseurl:"
-  discovering life's code
+  Better living through science, reason, and programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  justinddaniel
