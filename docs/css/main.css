@@ -3,5 +3,5 @@ body {
 }
 
 .intro {
-	display: inline;
+	display: inline-block;
 }
