@@ -1,3 +1,8 @@
+a:hover {
+	background-color: #c00;
+	color: #fff;
+}
+
 body {
 	background-color: lightblue;
 }
