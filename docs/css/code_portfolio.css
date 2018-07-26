@@ -1,5 +1,5 @@
 a {
-	color: #33ccff;
+	color: #00cc00;
 }
 
 a:hover {
@@ -14,4 +14,10 @@ body {
 
 ul, li {
     list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.liststyle {
+    list-style-type: none;
 }
