@@ -12,6 +12,6 @@ body {
 	color: white;
 }
 
-ul {
+ul, li {
     list-style: none;
 }
