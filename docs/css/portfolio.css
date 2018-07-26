@@ -6,3 +6,9 @@ a:hover {
 body {
 	background-color: lightblue;
 }
+
+img {
+	float: left;
+	margin: 3px;
+	border: 1px solid #000000;
+}
