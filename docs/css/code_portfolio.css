@@ -25,3 +25,14 @@ ul, li {
 li span {
 	color: blue;
 }
+
+.row {
+  border: 2px solid blue;
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  border: 2px solid blue;
+  padding: 4px;
+}
