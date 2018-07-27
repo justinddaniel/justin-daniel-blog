@@ -21,3 +21,7 @@ ul, li {
 .liststyle {
     list-style-type: none;
 }
+
+li span {
+	color: blue;
+}
