@@ -32,7 +32,8 @@ li span {
 }
 
 .column {
-  flex: 50%;
+  float: left;
+  width: 33.33%;
   border: 2px solid blue;
   padding: 4px;
 }
