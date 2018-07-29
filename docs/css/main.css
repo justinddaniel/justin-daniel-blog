@@ -16,3 +16,15 @@ img {
 	margin: 3px;
 	border: 1px solid #000000;
 }
+
+.row {
+  border: 2px solid blue;
+  display: flex;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  border: 2px solid blue;
+  padding: 4px;
+}
